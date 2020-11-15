@@ -5,17 +5,9 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn to="/" text>
-        <span class="mr-2">Home</span>
-        <v-icon>mdi-home</v-icon>
-      </v-btn>
+      <v-btn to="/" text> Home </v-btn>
       <v-btn to="/about" text>
-        <span class="mr-2">About</span>
-        <v-icon>mdi-information</v-icon>
-      </v-btn>
-      <v-btn to="/result" text>
-        <span class="mr-2">Result</span>
-        <v-icon>mdi-check</v-icon>
+        About
       </v-btn>
     </v-app-bar>
 
